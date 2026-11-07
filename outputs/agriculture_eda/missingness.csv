@@ -1,0 +1,14 @@
+﻿dataset,field,missing_count,missing_percent
+production_29sg,sown_area_ha,437,92.0
+production_29sg,harvested_area_ha,440,92.6
+production_29sg,harvest_tonnes,456,96.0
+production_29sg,yield_tonnes_per_ha,456,96.0
+cost_50sg,production_cost_k_uah,0,0.0
+cost_50sg,direct_materials_k_uah,0,0.0
+cost_50sg,direct_labor_k_uah,0,0.0
+inventory_50sg,opening_stock_tonnes,2,3.8
+inventory_50sg,inflow_tonnes,0,0.0
+inventory_50sg,outflow_tonnes,0,0.0
+inventory_50sg,ending_stock_derived_tonnes,2,3.8
+crosswalk_panel,production_cost_k_uah,0,0.0
+crosswalk_panel,ending_stock_derived_tonnes,1,3.3
