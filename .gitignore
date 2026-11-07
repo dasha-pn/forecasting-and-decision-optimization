@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Agricultural reports and extracted data
+/data/agriculture/raw/
+/data/agriculture/processed/
+
 # C extensions
 *.so
 
