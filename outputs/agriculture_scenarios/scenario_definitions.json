@@ -1,0 +1,59 @@
+{
+  "source_year": 2025,
+  "illustrative": true,
+  "base_capacity_share": 0.6,
+  "base_reserve_fraction": 0.1,
+  "scenario_capacity_reference_space_units": 37602.115,
+  "scenarios": [
+    {
+      "id": "baseline",
+      "label": "Baseline (60% capacity)",
+      "capacity_share": 0.6
+    },
+    {
+      "id": "capacity_40",
+      "label": "Capacity 40%",
+      "capacity_share": 0.4
+    },
+    {
+      "id": "capacity_50",
+      "label": "Capacity 50%",
+      "capacity_share": 0.5
+    },
+    {
+      "id": "capacity_75",
+      "label": "Capacity 75%",
+      "capacity_share": 0.75
+    },
+    {
+      "id": "capacity_100",
+      "label": "Capacity 100%",
+      "capacity_share": 1.0
+    },
+    {
+      "id": "higher_holding_cost",
+      "label": "Holding costs +30%",
+      "holding_cost_multiplier": 1.3
+    },
+    {
+      "id": "lower_current_prices",
+      "label": "All price levels −20%",
+      "price_multiplier": 0.8
+    },
+    {
+      "id": "lower_future_growth",
+      "label": "Future price change −5 pp",
+      "growth_change_pp": -5.0
+    },
+    {
+      "id": "lower_supply",
+      "label": "Available supply −20%",
+      "supply_multiplier": 0.8
+    },
+    {
+      "id": "too_small_capacity",
+      "label": "Capacity 5% (reserve infeasible)",
+      "capacity_share": 0.05
+    }
+  ]
+}

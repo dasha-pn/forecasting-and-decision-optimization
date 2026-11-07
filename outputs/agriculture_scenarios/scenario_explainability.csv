@@ -1,0 +1,10 @@
+﻿scenario_id,scenario,binding_capacity,shadow_price_uah_per_space_unit,utilization_pct,crops_at_minimum,crops_fully_held
+baseline,Baseline (60% capacity),True,296.0,100.00000000000001,2,3
+capacity_40,Capacity 40%,True,296.0,100.00000000000001,2,3
+capacity_50,Capacity 50%,True,296.0,100.00000000000001,2,3
+capacity_75,Capacity 75%,True,116.19047619047619,100.0,0,5
+capacity_100,Capacity 100%,True,0.0,100.00000000000001,0,6
+higher_holding_cost,Holding costs +30%,True,200.0,100.00000000000001,2,3
+lower_current_prices,All price levels −20%,True,172.80000000000018,100.00000000000001,2,3
+lower_future_growth,Future price change −5 pp,False,0.0,34.597978509098944,4,2
+lower_supply,Available supply −20%,True,116.19047619047619,99.99999999999999,0,5
