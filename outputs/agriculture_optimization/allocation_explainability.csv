@@ -1,0 +1,7 @@
+﻿crop,incremental_net_benefit_per_held_t_uah,space_units_per_tonne,hold_tonnes,available_tonnes,lower_bound_active,upper_bound_active,benefit_per_space_unit_uah,held_share_pct
+soybeans,1030.0000000000018,1.0,3171.4,3171.4,False,True,1030.0000000000018,100.0
+sunflower,880.0,0.95,1393.3,1393.3,False,True,926.3157894736843,100.0
+rapeseed,395.0,0.95,7851.6,7851.6,False,True,415.7894736842105,100.0
+wheat,296.0,1.0,8958.547999999997,9161.4,False,False,296.0,97.7857969306001
+barley,155.0,1.0,252.46,2524.6,True,False,155.0,10.0
+maize,122.0,1.05,1329.7200000000003,13297.2,True,False,116.19047619047619,10.000000000000002

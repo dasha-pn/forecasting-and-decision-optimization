@@ -1,0 +1,12 @@
+{
+  "solver_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "capacity_space_units": 22561.268999999997,
+  "space_used_units": 22561.269,
+  "unused_capacity_space_units": -3.637978807091713e-12,
+  "capacity_binding": true,
+  "capacity_shadow_value_uah_per_space_unit": 296.0,
+  "immediate_sale_baseline_uah": 389070270.0,
+  "optimized_net_revenue_uah": 399517385.348,
+  "incremental_benefit_vs_immediate_sale_uah": 10447115.34799999,
+  "mandatory_reserve_incremental_benefit_uah": 1231937.3800000008
+}

@@ -1,0 +1,45 @@
+{
+  "source_year": 2025,
+  "assumptions_are_illustrative": true,
+  "market_price_source": null,
+  "capacity_share_of_full_stock_space": 0.6,
+  "minimum_reserve_fraction": 0.1,
+  "crop_assumptions": {
+    "barley": {
+      "sell_now_price_uah_per_t": 6500,
+      "later_price_change_pct": 7,
+      "holding_cost_uah_per_t": 300,
+      "space_units_per_tonne": 1.0
+    },
+    "maize": {
+      "sell_now_price_uah_per_t": 7200,
+      "later_price_change_pct": 6,
+      "holding_cost_uah_per_t": 310,
+      "space_units_per_tonne": 1.05
+    },
+    "rapeseed": {
+      "sell_now_price_uah_per_t": 17500,
+      "later_price_change_pct": 5,
+      "holding_cost_uah_per_t": 480,
+      "space_units_per_tonne": 0.95
+    },
+    "soybeans": {
+      "sell_now_price_uah_per_t": 14500,
+      "later_price_change_pct": 10,
+      "holding_cost_uah_per_t": 420,
+      "space_units_per_tonne": 1.0
+    },
+    "sunflower": {
+      "sell_now_price_uah_per_t": 16500,
+      "later_price_change_pct": 8,
+      "holding_cost_uah_per_t": 440,
+      "space_units_per_tonne": 0.95
+    },
+    "wheat": {
+      "sell_now_price_uah_per_t": 7700,
+      "later_price_change_pct": 8,
+      "holding_cost_uah_per_t": 320,
+      "space_units_per_tonne": 1.0
+    }
+  }
+}
